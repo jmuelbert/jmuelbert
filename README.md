@@ -1,5 +1,5 @@
 
-# Hi! 👋 <!-- <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px"> -->
+# Hi! 👋 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px">
 **I'm Jürgen Mülbert, passionate programmer and problem solver 💻🔍. I have experience in C++, Python, dotnet and PowerShell and love learning new technologies and working on projects that challenge🚀🌟 me.**
 
 
