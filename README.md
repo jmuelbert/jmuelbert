@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 
 # Hi! 👋 <!-- <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px"> -->
 **I'm Jürgen Mülbert, passionate programmer and problem solver 💻🔍. I have experience in C++, Python, dotnet and PowerShell and love learning new technologies and working on projects that challenge🚀🌟 me.**
+
 **Ich bin Jürgen Mülbert, leidenschaftlicher Programmierer und Problemlöser 💻🔍. Ich habe Erfahrung in C++, Python, dotnet und PowerShell und liebe es, neue Technologien zu lernen und an Projekten zu arbeiten, die mich herausfordern🚀🌟.**
 
 > ***If you are already here, then kindly make a glimpse on my repositories on Github.***
+> 
 > ***Wenn Sie bereits hier sind, dann werfen Sie bitte einen Blick auf meine Repositories auf Github***
 ### Let's Connect:
 [<img align="left" alt="anuj | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][GitHub]
@@ -27,7 +29,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="anuj | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 [<img align="left" alt="anuj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
 [<img align="left" alt="anuj | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
-<a href="mailto:anujbisht09@gmail.com">
+<a href="mailto:juergen.muelbert@gmail.com">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
@@ -47,7 +49,7 @@ Here are some ideas to get you started:
 -->
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-![](https://komarev.com/ghpvc/?username=jmuelbert&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS) 
+![GitHub](https://komarev.com/ghpvc/?username=jmuelbert&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS) 
 
 
 
@@ -64,6 +66,6 @@ Here are some ideas to get you started:
 <!--- Links of Social Sites --->
 [LinkedIn]: https://www.linkedin.com/in/juergenmuelbert/
 [Instagram]: https://www.instagram.com/jmuelbert/
-[GitHub]: https://github.com/bjmuelbert/
+[GitHub]: https://github.com/muelbert/
 [Twitter]: https://twitter.com/jmuelbert/
 [GitLab]: https://gitlab.com/jmuelbert
