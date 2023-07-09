@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/jmuelbert" target="blank"><img src="https://img.shields.io/twitter/follow/jmuelbert?logo=twitter&style=for-the-badge" alt="jmuelbert" /></a> </p>
 
-- 📫 How to reach me **juergen.muelbert@gmail.com**
+- 📫 How to reach me **juergen.muelbert@outlook.de**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
